@@ -1,0 +1,5 @@
+riemann_host: riemann.hmp.tableausandbox.com:5555
+host: sbseautlx01
+
+whitelist:
+  salt-minion: STOPPED
